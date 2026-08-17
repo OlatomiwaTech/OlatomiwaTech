@@ -81,7 +81,7 @@ Going beyond making something work and understanding why it works.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OlatomiwaTech&show_icons=true&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OlatomiwaTech" />
 
 </div>
 
