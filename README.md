@@ -29,7 +29,3 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 
 ---
 
-### 📫 Connect With Me
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website.com)
