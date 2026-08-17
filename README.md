@@ -2,12 +2,12 @@
 
 # 👋 Hey, I'm Olatomiwa
 
-### 💻 Developer • 🗄️ Database Engineering • ⚙️ Backend Development
+### 💻 Developer · ⚙️ Backend Development · 🗄️ Database Engineering
 
 <p>
   <img src="https://img.shields.io/badge/BUILDING-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LEARNING-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SCALING-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLVING-111827?style=for-the-badge" />
 </p>
 
 I enjoy building software, working with data, and solving real-world problems through technology.
@@ -32,11 +32,11 @@ A school management application I’m currently working on.
 
 <div align="center">
 
-|      ⚙️ Backend     |     🗄️ Databases    |     📈 Scalability    |
-| :-----------------: | :------------------: | :-------------------: |
-| Backend Development | Database Engineering | Scalable Applications |
-|         APIs        |      Data Design     |   System Performance  |
-|  Server-side Logic  |          SQL         |      Reliability      |
+|  ⚙️ Backend Development  | 🗄️ Database Engineering |   📈 Scalability   |
+| :----------------------: | :----------------------: | :----------------: |
+| APIs & Server-side Logic |     SQL & Data Design    | System Performance |
+|   Backend Architecture   |      Data Management     |     Reliability    |
+|     Application Logic    |     Database Systems     |       Growth       |
 
 </div>
 
@@ -48,9 +48,9 @@ A school management application I’m currently working on.
 
 ### 💻 Development
 
-<img src="https://skillicons.dev/icons?i=javascript,react,git" />
+<img src="https://skillicons.dev/icons?i=javascript,react,git,github,vscode" />
 
-### 📚 Exploring & Learning
+### ⚙️ Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,typescript,postgresql,prisma" />
 
@@ -60,24 +60,24 @@ A school management application I’m currently working on.
 
 ## 🎯 What I Care About
 
-🧩 **Solving Problems**
+🧩 **Problem Solving**
 Turning real-world problems into useful software.
 
 🗄️ **Database Engineering**
-Understanding how data should be structured, stored, and accessed efficiently.
+Understanding how data is structured, stored, and accessed efficiently.
 
 ⚙️ **Backend Development**
 Learning how the systems behind applications are designed and built.
 
 📈 **Scalability**
-Understanding how applications can continue to perform as usage grows.
+Understanding how applications can continue performing as usage grows.
 
 🔍 **Continuous Learning**
-Going beyond simply making something work and understanding why it works.
+Going beyond making something work and understanding why it works.
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
