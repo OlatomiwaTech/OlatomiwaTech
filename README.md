@@ -6,13 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: [Your current project]
-- 🌱 I’m currently learning: [Technologies you're learning]
-- 👯 I’m looking to collaborate on: [Type of projects you want to work on]
-- 🤔 I’m looking for help with: [Optional]
-- 💬 Ask me about: [Your main skills]
-- 📫 How to reach me: [Your email or social links]
-- ⚡ Fun fact: [Something interesting about you]
+- 🔭 I’m currently working on: [https://github.com/Michael-aal/petra-school-project]
+- 🌱 I’m currently learning: **Backend Development**
+- 👯 I’m looking to collaborate on: Full-Stack Application
+- 🤔 I’m looking for help with: How to make Apps highly Scalable
+- 💬 Ask me about: [Database Engeering]
+- 📫 How to reach me: mrcodex2012@gmail.com
+- ⚡ Fun fact: I love reading books.
 
 ---
 
