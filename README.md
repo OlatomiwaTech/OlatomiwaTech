@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 - 🌱 I’m currently learning: **Backend Development**
 - 👯 I’m looking to collaborate on: Full-Stack Application
 - 🤔 I’m looking for help with: How to make Apps highly Scalable
-- 💬 Ask me about: [Database Engeering]
+- 💬 Ask me about: [Database Engineering]
 - 📫 How to reach me: mrcodex2012@gmail.com
 - ⚡ Fun fact: I love reading books.
 
