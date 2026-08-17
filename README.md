@@ -1,4 +1,4 @@
-## Hi there This is my github acc👋
+## Hi there This is my github account👋
 
 <!--
 **OlatomiwaTech/OountlatomiwaTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
