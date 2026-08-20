@@ -1,108 +1,69 @@
 <div align="center">
+  <!-- Animated Header GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
+  
+  <h1>Hi there, I'm Olatomiwa! 👋</h1>
+  <h3>Building tools that empower African freelancers to thrive.</h3>
+  
+  <p>
+    <em>"Don’t just code it. Craft it."</em>
+  </p>
 
-# 👋 Hey, I'm Olatomiwa
-
-### 💻 Developer · ⚙️ Backend Development · 🗄️ Database Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/BUILDING-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEARNING-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOLVING-111827?style=for-the-badge" />
-</p>
-
-I enjoy building software, working with data, and solving real-world problems through technology.
-
-Currently, I’m focused on **Backend Development**, **Database Engineering**, and understanding how applications can become **more scalable and reliable**.
-
+  <!-- Social / Contact Badges -->
+  <p>
+    <a href="https://twitter.com/your_twitter_handle" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://linkedin.com/in/your_linkedin" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
----
+<br />
 
-## 🚀 What I'm Working On
-
-### 🏫 Petra School Project
-
-A school management application I’m currently working on.
-
-🔗 **Repository:** [Michael-aal/petra-school-project](https://github.com/Michael-aal/petra-school-project)
+### 🚀 Currently Working On
+- **[SoloHub](https://github.com/OlatomiwaTech/SoloHub)**: An all-in-one freelance management platform (React, Node.js, Prisma, Paystack) designed specifically for African solopreneurs.
 
 ---
 
-## 🧠 Current Focus
-
+### 🛠️ Tech Stack & Tools
 <div align="center">
-
-|  ⚙️ Backend Development  | 🗄️ Database Engineering |   📈 Scalability   |
-| :----------------------: | :----------------------: | :----------------: |
-| APIs & Server-side Logic |     SQL & Data Design    | System Performance |
-|   Backend Architecture   |      Data Management     |     Reliability    |
-|     Application Logic    |     Database Systems     |       Growth       |
-
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,shadcn" alt="Frontend" />
+  </a>
+  <br />
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgresql,git,github" alt="Backend" />
+  </a>
 </div>
 
+<br />
+
 ---
 
-## 🛠️ Technologies & Tools
-
+### 📊 GitHub Stats
 <div align="center">
-
-### 💻 Development
-
-<img src="https://skillicons.dev/icons?i=javascript,react,git,github,vscode" />
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,postgresql,prisma" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=OlatomiwaTech&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlatomiwaTech&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
 </div>
 
----
-
-## 🎯 What I Care About
-
-🧩 **Problem Solving**
-Turning real-world problems into useful software.
-
-🗄️ **Database Engineering**
-Understanding how data is structured, stored, and accessed efficiently.
-
-⚙️ **Backend Development**
-Learning how the systems behind applications are designed and built.
-
-📈 **Scalability**
-Understanding how applications can continue performing as usage grows.
-
-🔍 **Continuous Learning**
-Going beyond making something work and understanding why it works.
-
----
-
-## 📊 GitHub Stats
+<br />
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OlatomiwaTech" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OlatomiwaTech&theme=radical" alt="Profile Details" width="100%" />
 </div>
 
----
-
-## 📬 Connect
-
-<div align="center">
-
-📧 **[mrcodex2012@gmail.com](mailto:mrcodex2012@gmail.com)**
-
-🐙 **[GitHub — @OlatomiwaTech](https://github.com/OlatomiwaTech)**
-
-</div>
+<br />
 
 ---
 
+### 📫 Let's Connect!
+I'm always open to discussing new projects, freelance management strategies, or opportunities to collaborate. Feel free to reach out!
+
 <div align="center">
-
-### ⚡ Build. Learn. Solve.
-
-<sub>Always learning. Always building.</sub>
-
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Wave" />
 </div>
