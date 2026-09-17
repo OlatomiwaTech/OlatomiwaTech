@@ -4,7 +4,7 @@
 
 I'm a full-stack developer focused on understanding how software works from the ground up — from interfaces and APIs to databases and application architecture.
 
-I'm currently building **Nuvora** and **SewFlow**, while deepening my skills in backend development, databases, and software engineering.
+I'm currently building **Petra-School-Project**, while deepening my skills in backend development, databases, and software engineering.
 
 ---
 
