@@ -46,7 +46,11 @@ A school management system I'm building with features for things like **students
 
 The idea is to have all of the different parts of school management working together instead of having everything scattered everywhere.
 
+### 🧵 SewFlow
 
+A management app for tailoring businesses.
+
+It helps with **customers, measurements, orders, production, materials, and payments** so the business can keep track of everything digitally instead of relying on paper.
 
 ---
 
