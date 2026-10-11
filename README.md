@@ -1,13 +1,12 @@
-
 # 👋 Hey, I'm Olatomiwa!
 
 ### 🚀 I like turning ideas into real software.
 
-I'm a developer who enjoys building things and figuring out how they actually work.
+I'm a developer who enjoys building things and understanding how they actually work.
 
-I started with frontend development, but lately I've been getting much deeper into **backend development**, **databases**, and how the different parts of an application connect together.
+I started with frontend development, but lately I've been diving deeper into **backend development, databases, and software engineering** — learning how to build applications that are reliable, maintainable, and useful.
 
-Right now I'm mostly focused on getting better at building software properly instead of just making something that works once. 😭
+Right now, I'm focused on one project, strengthening my fundamentals, and learning new technologies along the way.
 
 ---
 
@@ -40,48 +39,45 @@ Right now I'm mostly focused on getting better at building software properly ins
 
 ## 🏗️ What I'm Building
 
-### 🏫 Petra School System
+### 🌐 Makayla Malaka Platform
 
-A school management system I'm building with features for things like **students, staff, attendance, exams, results, fees, messaging, and parent portals**.
+My current focus is the **Makayla Malaka platform**.
 
-The idea is to have all of the different parts of school management working together instead of having everything scattered everywhere.
+I'm concentrating on building and improving this project, applying what I know about frontend development, backend systems, and software engineering as I work toward creating a useful, well-structured product.
 
-### 🧵 SewFlow
-
-A management app for tailoring businesses.
-
-It helps with **customers, measurements, orders, production, materials, and payments** so the business can keep track of everything digitally instead of relying on paper.
+For now, this is my main development focus.
 
 ---
 
 ## 🧠 What I'm Learning
 
-- 🔌 **Backend development** — APIs, authentication, servers, and business logic
-- 🗄️ **Databases** — PostgreSQL, Prisma, relationships, migrations, and keeping data organized
-- 🧩 **Software engineering** — writing better code, debugging properly, using Git, and understanding how bigger applications are structured
+- ☕ **Java** — learning the fundamentals, syntax, object-oriented programming, and how to build applications with it.
+- 🔌 **Backend development** — APIs, authentication, servers, and business logic.
+- 🗄️ **Databases** — PostgreSQL, Prisma, relationships, migrations, and data management.
+- 🧩 **Software engineering** — writing maintainable code, debugging systematically, using Git effectively, and understanding application architecture.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OlatomiwaTech&show_icons=true&hide_border=true&theme=radical&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlatomiwaTech&layout=compact&hide_border=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OlatomiwaTech&show_icons=true&hide_border=true&theme=radical&rank_icon=github" height="165" alt="Olatomiwa's GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlatomiwaTech&layout=compact&hide_border=true&theme=radical" height="165" alt="Most used programming languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OlatomiwaTech&theme=radical&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=OlatomiwaTech&theme=radical&hide_border=true" height="165" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
 ## 🎯 My Goal
 
-**Idea 💡 → Plan 🗺️ → Code 👨‍💻 → Ship 🚀**
+**Learn 📚 → Build 🛠️ → Ship 🚀 → Improve 🔁**
 
-I don't just want to learn tech.
+I don't just want to learn technologies. I want to understand them, solve real problems, and build products that people genuinely find useful.
 
-I want to build things that people can actually use, keep getting better, and eventually build bigger products of my own.
+Every project is an opportunity to become a better developer.
 
 ---
 
@@ -94,4 +90,3 @@ I want to build things that people can actually use, keep getting better, and ev
 <p align="center">
   ⭐ <i>Ideas are everywhere. Building is the difference.</i> ⭐
 </p>
-
